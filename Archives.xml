@@ -5,4 +5,7 @@
 <ArchInfo Date="1674482285349" Description="Edit No 2&#10;Containf setinit and proc options" Name="myfirstjob-edit2" PackageName="myfirstjob-edit2.spk" UserID="sasdemo@DESKTOP-9NVPODD" Version="7e66283">
 <ContainObj>SBIP://METASERVER/User Folders/sasdemo/My Folder/myfirstjob(Job)</ContainObj>
 </ArchInfo>
+<ArchInfo Date="1674484209255" Description="addon for proc options memsize" Name="myfirstjob-edit3" PackageName="myfirstjob-edit3.spk" UserID="sasdemo@DESKTOP-9NVPODD" Version="a9ce856">
+<ContainObj>SBIP://METASERVER/User Folders/sasdemo/My Folder/myfirstjob(Job)</ContainObj>
+</ArchInfo>
 </ROOT>
